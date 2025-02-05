@@ -79,8 +79,8 @@ git remote -v
 ```
 You should now see:
 
-origin  git@github.com:josericodata/StreamlitTutorialDeployment.git(fetch)
-origin  git@github.com:josericodata/StreamlitTutorialDeployment.git (push)
+`origin  git@github.com:josericodata/StreamlitTutorialDeployment.git(fetch)`<br>
+`origin  git@github.com:josericodata/StreamlitTutorialDeployment.git (push)`
 
 **Note:** Now it is showing my user `git@github.com:josericodata`, when you are replicating it you should see `git@github.com:yourusername`, keep that in mind.
 
