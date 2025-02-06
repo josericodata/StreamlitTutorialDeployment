@@ -164,9 +164,9 @@ The app will be live at ```http://localhost:8501```
 ### ▶️ Watch the YouTube Tutorial
 
 
-[![Federated Learning Server Demonstration](https://img.youtube.com/vi/vErRPw0Rasw/maxresdefault.jpg)](https://www.youtube.com/watch?v=vErRPw0Rasw "Click to play")
+[![How to Deploy Your Streamlit App in Just Minutes Complete Tutorial Guide](https://img.youtube.com/vi/6fTxRzDErbc&t/maxresdefault.jpg)](https://www.youtube.com/watch?v=6fTxRzDErbc&t "Click to play")
 
-Click the image above or [here](https://www.youtube.com/watch?v=vErRPw0Rasw) to watch the video on YouTube.
+Click the image above or [here](https://www.youtube.com/watch?v=6fTxRzDErbc&t) to watch the video on YouTube.
 
 ---
 
